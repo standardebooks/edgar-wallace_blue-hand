@@ -31,9 +31,13 @@
 		<meta property="dcterms:alternative" refines="#title">Beyond Recall</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Jim Steele, clerk for a prominent London attorney has an active interest in the disappearance of Lady Mary Danton and her infant daughter just as the Danton fortune is about to be distributed to a woman and her notorious son.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Jim Steele, clerk for a prominent London attorney has the distasteful task of assisting a notorious client, Digby Groat, who stands to inherit the Jonathan Danton fortune. Danton’s infant daughter and closest heir, Dorothy, was thought to have died in a boating accident twenty ago. Adding to the mystery, Dorothy’s mother, Lady Mary Danton also disappeared around the same time.&lt;/p&gt;
+			&lt;p&gt;Jim receives alarming news that his new love interest, Eunice, has accepted a new job as live-in secretary to Digby’s mother. Soon after, Eunice receives a message from a mysterious intruder that her life is in danger and that she should leave the Digby house. As time passes, it becomes apparent that Digby, ruthless in his pursuit of wealth and women has set his sight on Eunice.&lt;/p&gt;
+			&lt;p&gt;Eunice’s parents have passed away, but something in her history doesn’t sit well with Jim’s inquiring mind, so he investigates, but is surprised when he learns that his neighbor, Mrs. Fane, a beautiful invalid has also been making inquiries about Eunice’s past and has more than a casual interest in both Eunice and Jim.&lt;/p&gt;
+			&lt;p&gt;A crisis occurs when just before the Danton fortune is to be distributed, Digby disappears and Jim fears that Eunice has been kidnapped.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Blue Hand&lt;/i&gt; was published in 1925.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20160213</dc:source>
