@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-wallace/blue-hand</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-07-19T19:13:39Z</dc:date>
+		<meta property="dcterms:modified">2023-07-19T19:13:39Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -31,19 +31,18 @@
 		<meta property="dcterms:alternative" refines="#title">Beyond Recall</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A law clerk has an active interest in the disappearance of a well-known woman and her infant daughter just as their fortune is about to be distributed to a notorious fellow.</dc:description>
+		<dc:description id="description">A law clerk takes an interest in the disappearance of a well-known woman and her infant daughter, just as their fortune is about to be distributed to a notorious client.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Jim Steele, clerk for a prominent London attorney has the distasteful task of assisting a notorious client, Digby Groat, who stands to inherit the Jonathan Danton fortune. Danton’s infant daughter and closest heir, Dorothy, was thought to have died in a boating accident twenty ago. Adding to the mystery, Dorothy’s mother, Lady Mary Danton also disappeared around the same time.&lt;/p&gt;
-			&lt;p&gt;Jim receives alarming news that his new love interest, Eunice, has accepted a new job as live-in secretary to Digby’s mother. Soon after, Eunice receives a message from a mysterious intruder that her life is in danger and that she should leave the Digby house. As time passes, it becomes apparent that Digby, ruthless in his pursuit of wealth and women has set his sight on Eunice.&lt;/p&gt;
-			&lt;p&gt;Eunice’s parents have passed away, but something in her history doesn’t sit well with Jim’s inquiring mind, so he investigates, but is surprised when he learns that his neighbor, Mrs. Fane, a beautiful invalid has also been making inquiries about Eunice’s past and has more than a casual interest in both Eunice and Jim.&lt;/p&gt;
-			&lt;p&gt;A crisis occurs when just before the Danton fortune is to be distributed, Digby disappears and Jim fears that Eunice has been kidnapped.&lt;/p&gt;
+			&lt;p&gt;Jim Steele, a clerk for a prominent London attorney, has the distasteful task of assisting a notorious client, Digby Groat, who stands to inherit the Jonathan Danton fortune. Danton’s infant daughter and closest heir, Dorothy, was thought to have died in a boating accident twenty ago. Adding to the mystery, Dorothy’s mother, Lady Mary Danton, also disappeared around the same time.&lt;/p&gt;
+			&lt;p&gt;Jim receives alarming news that his new love interest, Eunice, has accepted a new job as live-in secretary to Digby’s mother. Soon after, Eunice receives a message from a mysterious intruder that her life is in danger and that she should leave the Digby house. As time passes, it becomes apparent that Digby, ruthless in his pursuit of wealth and women, has set his sights on Eunice.&lt;/p&gt;
+			&lt;p&gt;Eunice’s parents have passed away, but something in her history doesn’t sit well with Jim’s inquiring mind. As he investigates he’s surprised to learn that his neighbor, a beautiful invalid, has also been making inquiries about Eunice’s past, and has more than a casual interest in both Eunice and Jim.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Blue Hand&lt;/i&gt; was published in 1925.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20160213</dc:source>
 		<dc:source>https://archive.org/details/bluehand0000unse</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">81425</meta>
+		<meta property="se:reading-ease.flesch">82.14</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Blue_Hand</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_blue-hand</meta>
 		<dc:creator id="author">Edgar Wallace</dc:creator>
@@ -73,6 +72,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
